@@ -7,15 +7,7 @@ payload:
   # via rekenng bank No. Rek : 453401017095532 a.n : MUHAMMAD YUSUF
   # lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
 
-  # > ARENA OF VALOR
-  - DOMAIN-SUFFIX,www.arenaofvalor.com
-
-  # > PES
-  - DOMAIN-KEYWORD,konami.com
-  - DOMAIN-SUFFIX,www.konami.com
-  - DOMAIN-SUFFIX,img.konami.com
-
-  # > Call Of Duty 4 Modern Warfare
+  # > isikan di kolom ip
   - IP-CIDR,24.20.167.0/24
   - IP-CIDR,24.55.175.0/24
   - IP-CIDR,25.42.244.0/24
@@ -161,8 +153,6 @@ payload:
   - IP-CIDR,203.33.160.0/24
   - IP-CIDR,206.163.236.0/24
   - IP-CIDR,209.222.1.0/24
-
-  # > Call Of Duty15 Asia
   - IP-CIDR,52.74.0.0/16
   - IP-CIDR,13.125.0.0/16
   - IP-CIDR,54.180.0.0/15
@@ -368,8 +358,6 @@ payload:
   - IP-CIDR,185.34.104.0/24
   - IP-CIDR,115.127.242.0/24
   - IP-CIDR,205.197.0.0/16
-
-  # > Call Of Duty16 Modern Warfare
   - IP-CIDR,3.0.0.0/16
   - IP-CIDR,3.112.0.0/16
   - IP-CIDR,13.32.0.0/16
