@@ -7,70 +7,70 @@ payload:
   # via rekenng bank No. Rek : 453401017095532 a.n : MUHAMMAD YUSUF
   # lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
 
-  # > Scholar
+  # > masukkan ke kolom domain
   - DOMAIN,scholar.google.com
-  - DOMAIN-SUFFIX,acm.org
-  - DOMAIN-SUFFIX,acs.org
-  - DOMAIN-SUFFIX,aip.org
-  - DOMAIN-SUFFIX,ams.org
-  - DOMAIN-SUFFIX,annualreviews.org
-  - DOMAIN-SUFFIX,aps.org
-  - DOMAIN-SUFFIX,ascelibrary.org
-  - DOMAIN-SUFFIX,asm.org
-  - DOMAIN-SUFFIX,asme.org
-  - DOMAIN-SUFFIX,astm.org
-  - DOMAIN-SUFFIX,bmj.com
-  - DOMAIN-SUFFIX,cambridge.org
-  - DOMAIN-SUFFIX,cas.org
-  - DOMAIN-SUFFIX,cell.com
-  - DOMAIN-SUFFIX,clarivate.com
-  - DOMAIN-SUFFIX,csiro.au
-  - DOMAIN-SUFFIX,ebscohost.com
-  - DOMAIN-SUFFIX,elsevier.com
-  - DOMAIN-SUFFIX,emerald.com
-  - DOMAIN-SUFFIX,endnote.com
-  - DOMAIN-SUFFIX,engineeringvillage.com
-  - DOMAIN-SUFFIX,icevirtuallibrary.com
-  - DOMAIN-SUFFIX,ieee.org
-  - DOMAIN-SUFFIX,imf.org
-  - DOMAIN-SUFFIX,iop.org
-  - DOMAIN-SUFFIX,jamanetwork.com
-  - DOMAIN-SUFFIX,jbc.org
-  - DOMAIN-SUFFIX,jhu.edu
-  - DOMAIN-SUFFIX,jstor.org
-  - DOMAIN-SUFFIX,karger.com
-  - DOMAIN-SUFFIX,libguides.com
-  - DOMAIN-SUFFIX,madsrevolution.net
-  - DOMAIN-SUFFIX,mdpi.com
-  - DOMAIN-SUFFIX,mpg.de
-  - DOMAIN-SUFFIX,myilibrary.com
-  - DOMAIN-SUFFIX,nature.com
-  - DOMAIN-SUFFIX,ncbi.nlm.nih.gov
-  - DOMAIN-SUFFIX,oecd-ilibrary.org
-  - DOMAIN-SUFFIX,osapublishing.org
-  - DOMAIN-SUFFIX,oup.com
-  - DOMAIN-SUFFIX,ovid.com
-  - DOMAIN-SUFFIX,oxfordartonline.com
-  - DOMAIN-SUFFIX,oxfordbibliographies.com
-  - DOMAIN-SUFFIX,oxfordmusiconline.com
-  - DOMAIN-SUFFIX,pnas.org
-  - DOMAIN-SUFFIX,proquest.com
-  - DOMAIN-SUFFIX,rsc.org
-  - DOMAIN-SUFFIX,sagepub.com
-  - DOMAIN-SUFFIX,sciencedirect.com
-  - DOMAIN-SUFFIX,sciencemag.org
-  - DOMAIN-SUFFIX,scitation.org
-  - DOMAIN-SUFFIX,sci-hub.tw
-  - DOMAIN-SUFFIX,scopus.com
-  - DOMAIN-SUFFIX,siam.org
-  - DOMAIN-SUFFIX,spiedigitallibrary.org
-  - DOMAIN-SUFFIX,springer.com
-  - DOMAIN-SUFFIX,springerlink.com
-  - DOMAIN-SUFFIX,tandfonline.com
-  - DOMAIN-SUFFIX,un.org
-  - DOMAIN-SUFFIX,uni-bielefeld.de
-  - DOMAIN-SUFFIX,webofknowledge.com
-  - DOMAIN-SUFFIX,westlaw.com
-  - DOMAIN-SUFFIX,wiley.com
-  - DOMAIN-SUFFIX,worldbank.org
-  - DOMAIN-SUFFIX,worldscientific.com
+acm.org
+acs.org
+aip.org
+ams.org
+annualreviews.org
+aps.org
+ascelibrary.org
+asm.org
+asme.org
+astm.org
+bmj.com
+cambridge.org
+cas.org
+cell.com
+clarivate.com
+csiro.au
+ebscohost.com
+elsevier.com
+emerald.com
+endnote.com
+engineeringvillage.com
+icevirtuallibrary.com
+ieee.org
+imf.org
+iop.org
+jamanetwork.com
+jbc.org
+jhu.edu
+jstor.org
+karger.com
+libguides.com
+madsrevolution.net
+mdpi.com
+mpg.de
+myilibrary.com
+nature.com
+ncbi.nlm.nih.gov
+oecd-ilibrary.org
+osapublishing.org
+oup.com
+ovid.com
+oxfordartonline.com
+oxfordbibliographies.com
+oxfordmusiconline.com
+pnas.org
+proquest.com
+rsc.org
+sagepub.com
+sciencedirect.com
+sciencemag.org
+scitation.org
+sci-hub.tw
+scopus.com
+siam.org
+spiedigitallibrary.org
+springer.com
+springerlink.com
+tandfonline.com
+un.org
+uni-bielefeld.de
+webofknowledge.com
+westlaw.com
+wiley.com
+worldbank.org
+worldscientific.com
