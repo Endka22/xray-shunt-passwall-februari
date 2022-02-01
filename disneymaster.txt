@@ -8,7 +8,7 @@ payload:
   # lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
   
   # > isikan di kolom domain
-  - PROCESS-NAME,com.disney.disneyplus
+com.disney.disneyplus
 adobedtm.com
 bam.nr-date.net
 bamgrid.com
