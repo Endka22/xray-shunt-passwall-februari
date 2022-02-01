@@ -7,8 +7,8 @@ payload:
   # via rekenng bank No. Rek : 453401017095532 a.n : MUHAMMAD YUSUF
   # lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
 
-  # > LANGIT MUSIK
-  - DOMAIN-SUFFIX,www.langitmusik.co.id
-  - DOMAIN-SUFFIX,langitmusik.co.id
-  - DOMAIN-SUFFIX,play.langitmusik.co.id
-  - DOMAIN-SUFFIX,prelisten.langitmusik.co.id
+  # > isikan di kolom domain
+www.langitmusik.co.id
+langitmusik.co.id
+play.langitmusik.co.id
+prelisten.langitmusik.co.id
