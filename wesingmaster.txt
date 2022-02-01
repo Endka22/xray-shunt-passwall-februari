@@ -6,9 +6,9 @@ payload:
   # Bagi yang ingin sawer untuk keberlanjutan silahkan melalui di bawah ini
   # via rekenng bank No. Rek : 453401017095532 a.n : MUHAMMAD YUSUF
   # lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
-
-  # > WESING
-  - DOMAIN-SUFFIX,wesingapp.com
-  - DOMAIN-SUFFIX,aka-resource.wesingapp.com
-  - DOMAIN-SUFFIX,static.wesingapp.com
-  - DOMAIN-SUFFIX,vibeacon.onezapp.com
+  
+  # > isikan di kolom domain
+wesingapp.com
+aka-resource.wesingapp.com
+static.wesingapp.com
+vibeacon.onezapp.com
