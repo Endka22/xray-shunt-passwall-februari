@@ -7,10 +7,10 @@ payload:
   # via rekenng bank No. Rek : 453401017095532 a.n : MUHAMMAD YUSUF
   # lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
 
-  # > Spotify
-  - PROCESS-NAME,com.spotify.music
-  - DOMAIN-SUFFIX,pscdn.co
-  - DOMAIN-SUFFIX,scdn.co
-  - DOMAIN-SUFFIX,spoti.fi
-  - DOMAIN-SUFFIX,spotify.com
-  - DOMAIN-SUFFIX,spotifycdn.net
+  # > masukkan ke kolom domain
+com.spotify.music
+pscdn.co
+scdn.co
+spoti.fi
+spotify.com
+spotifycdn.net
