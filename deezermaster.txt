@@ -7,11 +7,11 @@ payload:
   # via rekenng bank No. Rek : 453401017095532 a.n : MUHAMMAD YUSUF
   # lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
 
-  # > DEEZER
-  - DOMAIN-SUFFIX,www.deezer.com
-  - DOMAIN-SUFFIX,live.deezer.com
-  - DOMAIN-SUFFIX,api.deezer.com
-  - DOMAIN-SUFFIX,deezer.page.link
-  - DOMAIN-SUFFIX,media.deezer.com
-  - DOMAIN-SUFFIX,messaging.deezer.com
-  - DOMAIN-SUFFIX,rec.deezer.com
+  # > isikan di kolom domain
+www.deezer.com
+live.deezer.com
+api.deezer.com
+deezer.page.link
+media.deezer.com
+messaging.deezer.com
+rec.deezer.com
