@@ -7,19 +7,19 @@ payload:
   # via rekenng bank No. Rek : 453401017095532 a.n : MUHAMMAD YUSUF
   # lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
 
-  # > VIDIO
-  - DOMAIN-SUFFIX,cdn-production-thumbor-vidio.akamaized.net
-  - DOMAIN-SUFFIX,static-web-prod-vidio.akamaized.net
-  - DOMAIN-SUFFIX,www.vidio.com
-  - DOMAIN-SUFFIX,c.vidio.com
-  - DOMAIN-SUFFIX,hermes.vidio.com
-  - DOMAIN-SUFFIX,token-media-vidio-com.akamaized.net
-  - DOMAIN-SUFFIX,static-playback-vidio-com.akamaized.net
-  - DOMAIN-SUFFIX,plenty.vidio.com
-  - DOMAIN-SUFFIX,personalization.vidio.com
-  - DOMAIN-SUFFIX,media-vidio-com.akamaized.net
-  - DOMAIN-SUFFIX,api.vidio.com
-  - DOMAIN-SUFFIX,live.vidio.com
-  - DOMAIN-SUFFIX,quiz.vidio.com
-  - DOMAIN-SUFFIX,etslive-2-vidio-com.akamaized.net
-  - DOMAIN-SUFFIX,cdp.vidio.com
+  # > masukkan ke kolom domain
+cdn-production-thumbor-vidio.akamaized.net
+static-web-prod-vidio.akamaized.net
+www.vidio.com
+c.vidio.com
+hermes.vidio.com
+token-media-vidio-com.akamaized.net
+static-playback-vidio-com.akamaized.net
+plenty.vidio.com
+personalization.vidio.com
+media-vidio-com.akamaized.net
+api.vidio.com
+live.vidio.com
+quiz.vidio.com
+etslive-2-vidio-com.akamaized.net
+cdp.vidio.com
