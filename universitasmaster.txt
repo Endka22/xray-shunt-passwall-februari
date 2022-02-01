@@ -8,7 +8,7 @@ payload:
   # lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
 
   # > masukkan ke kolom domain
-  - DOMAIN,scholar.google.com
+scholar.google.com
 acm.org
 acs.org
 aip.org
