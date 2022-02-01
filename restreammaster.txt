@@ -6,11 +6,12 @@ payload:
   # Bagi yang ingin sawer untuk keberlanjutan silahkan melalui di bawah ini
   # via rekenng bank No. Rek : 453401017095532 a.n : MUHAMMAD YUSUF
   # lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
-  # > RESTREAM
-  - DOMAIN-SUFFIX,streaming-statuses.restream.io
-  - DOMAIN-SUFFIX,live.restream.io
-  - DOMAIN-SUFFIX,singapore-39.restream.io
-  - DOMAIN-SUFFIX,backend.chat.restream.io
-  - DOMAIN-SUFFIX,studio-backend.restream.io
-  - DOMAIN-SUFFIX,app.restream.io
-  - DOMAIN-SUFFIX,restream.io
+  
+  # > masukkan ke kolom domain
+streaming-statuses.restream.io
+live.restream.io
+singapore-39.restream.io
+backend.chat.restream.io
+studio-backend.restream.io
+app.restream.io
+restream.io
