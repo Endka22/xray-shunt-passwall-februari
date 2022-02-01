@@ -7,11 +7,11 @@ payload:
   # via rekenng bank No. Rek : 453401017095532 a.n : MUHAMMAD YUSUF
   # lain nya di https://sites.google.com/view/masterwifinetworksoluton/bantu-masterwifi
 
-  # > MOBILE LEGENDS MASTER WIFI NETWORK SOLUTION
-  - DOMAIN-SUFFIX,report.ml.youngjoygame.com
-  - DOMAIN-SUFFIX,akmcdn.ml.youngjoygame.com
-  - DOMAIN-SUFFIX,ip.ml.youngjoygame.com
-  - DOMAIN-SUFFIX,akmstatic.ml.youngjoygame.com
-  - DOMAIN-SUFFIX,newlogin.ml.youngjoygame.com
-  - DOMAIN-SUFFIX,wscdn.ml.youngjoygame.com
-  - DOMAIN-SUFFIX,ml.aihelp.net
+  # > isikan di kolom domain
+report.ml.youngjoygame.com
+akmcdn.ml.youngjoygame.com
+ip.ml.youngjoygame.com
+akmstatic.ml.youngjoygame.com
+newlogin.ml.youngjoygame.com
+wscdn.ml.youngjoygame.com
+ml.aihelp.net
